@@ -1,0 +1,173 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "img": "/movie/shawshank.jpg",
+    "genre": "Drama",
+    "tags": ["prison", "friendship", "hope"],
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "tomatoRatings": 91,
+    "audienceRatings": 98
+  },
+  {
+    "title": "The Godfather",
+    "img": "/movie/godfather.jpg",
+    "genre": "Crime",
+    "tags": ["mafia", "family", "betrayal"],
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "tomatoRatings": 98,
+    "audienceRatings": 97
+  },
+  {
+    "title": "The Dark Knight",
+    "img": "/movie/dark_knight.jpg",
+    "genre": "Action",
+    "tags": ["hero", "joker", "chaos"],
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on Gotham City.",
+    "tomatoRatings": 94,
+    "audienceRatings": 94
+  },
+  {
+    "title": "Pulp Fiction",
+    "img": "/movie/pulp_fiction.jpg",
+    "genre": "Crime",
+    "tags": ["gangster", "non-linear", "dialogue"],
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "tomatoRatings": 92,
+    "audienceRatings": 96
+  },
+  {
+    "title": "Schindler's List",
+    "img": "/movie/schindlers_list.jpg",
+    "genre": "Biography",
+    "tags": ["holocaust", "history", "compassion"],
+    "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "tomatoRatings": 98,
+    "audienceRatings": 97
+  },
+  {
+    "title": "Forrest Gump",
+    "img": "/movie/forrest_gump.jpg",
+    "genre": "Drama",
+    "tags": ["life", "inspiration", "historical"],
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and other historical events unfold from the perspective of an Alabama man with a very low IQ.",
+    "tomatoRatings": 70,
+    "audienceRatings": 95
+  },
+  {
+    "title": "Inception",
+    "img": "/movie/inception.jpg",
+    "genre": "Sci-Fi",
+    "tags": ["dream", "subconscious", "thriller"],
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "tomatoRatings": 87,
+    "audienceRatings": 91
+  },
+  {
+    "title": "Fight Club",
+    "img": "/movie/fight_club.jpg",
+    "genre": "Drama",
+    "tags": ["anarchy", "violence", "identity"],
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "tomatoRatings": 79,
+    "audienceRatings": 96
+  },
+  {
+    "title": "The Matrix",
+    "img": "/movie/matrix.jpg",
+    "genre": "Sci-Fi",
+    "tags": ["virtual", "reality", "simulation"],
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "tomatoRatings": 87,
+    "audienceRatings": 85
+  },
+  {
+    "title": "Interstellar",
+    "img": "/movie/interstellar.jpg",
+    "genre": "Sci-Fi",
+    "tags": ["space", "time", "survival"],
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "tomatoRatings": 72,
+    "audienceRatings": 86
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "img": "/movie/lotr_fellowship.jpg",
+    "genre": "Fantasy",
+    "tags": ["adventure", "epic", "friendship"],
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "tomatoRatings": 91,
+    "audienceRatings": 95
+  },
+  {
+    "title": "Gladiator",
+    "img": "/movie/gladiator.jpg",
+    "genre": "Action",
+    "tags": ["revenge", "warrior", "roman"],
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "tomatoRatings": 77,
+    "audienceRatings": 87
+  },
+  {
+    "title": "Titanic",
+    "img": "/movie/titanic.jpg",
+    "genre": "Romance",
+    "tags": ["tragedy", "shipwreck", "love"],
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "tomatoRatings": 89,
+    "audienceRatings": 69
+  },
+  {
+    "title": "Jurassic Park",
+    "img": "/movie/jurassic_park.jpg",
+    "genre": "Adventure",
+    "tags": ["dinosaurs", "science", "survival"],
+    "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+    "tomatoRatings": 91,
+    "audienceRatings": 91
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "img": "/movie/star_wars_new_hope.jpg",
+    "genre": "Sci-Fi",
+    "tags": ["space", "rebellion", "adventure"],
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle station.",
+    "tomatoRatings": 92,
+    "audienceRatings": 96
+  },
+  {
+    "title": "Avengers: Endgame",
+    "img": "/movie/avengers_endgame.jpg",
+    "genre": "Action",
+    "tags": ["superheroes", "infinity", "time travel"],
+    "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions.",
+    "tomatoRatings": 94,
+    "audienceRatings": 90
+  },
+  {
+    "title": "The Lion King",
+    "img": "/movie/lion_king.jpg",
+    "genre": "Animation",
+    "tags": ["coming-of-age", "animals", "family"],
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "tomatoRatings": 93,
+    "audienceRatings": 93
+  },
+  {
+    "title": "Saving Private Ryan",
+    "img": "/movie/saving_private_ryan.jpg",
+    "genre": "War",
+    "tags": ["world war ii", "soldiers", "sacrifice"],
+    "description": "Following the Normandy landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "tomatoRatings": 93,
+    "audienceRatings": 95
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "img": "/movie/spiderverse.jpg",
+    "genre": "Animation",
+    "tags": ["multiverse", "spider-man", "superhero"],
+    "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five counterparts from other dimensions to stop a threat for all realities.",
+    "tomatoRatings": 97,
+    "audienceRatings": 93
+  }
+]
